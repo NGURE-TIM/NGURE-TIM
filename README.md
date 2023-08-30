@@ -1,3 +1,9 @@
+<div class="container">
+        <h1>Hi there, I'm Tim! <span class="wave">👋🏿</span></h1>
+        <p>Welcome to my page. I'm glad you're here!</p>
+    </div>
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
