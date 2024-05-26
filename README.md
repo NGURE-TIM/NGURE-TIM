@@ -10,7 +10,7 @@
 
 ---
 # 💫 About Me:
-📱 Android & Flutter Developer | 🐍 Python & Django Enthusiast<br>🤖 Crafting Mobile Magic with Flutter for Android<br>🌐 Building Web Wonders with Python and Django<br>📜 History Buff | 🎬 Movie Aficionado | 🎵 Music Lover | ⚽ Football Fanatic<br>🚀 Open to Collaboration and Contributions
+📱 Android & Flutter Developer | 🐍 Python & Django Enthusiast<br>🤖 Crafting Mobile Magic with Flutter for Android<br>🌐 Building Web Wonders with Python and Django<br> ⚽ Football Fanatic<br>🚀 Open to Collaboration and Contributions
 
 
 ## 🌐 Socials:
